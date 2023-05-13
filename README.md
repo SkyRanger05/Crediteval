@@ -1,11 +1,40 @@
-![image](Resources/27175447577_bcc121030c_c.jpg)
+![image1](Resources/27175447577_bcc121030c_c.jpg)
 ___
 # Crediteval
-
+**Crediteval** is a prediction algorithm to help manage risk in lending.
+```
+```
+___
 # Purpose
-
+In the recent years Peer-to-peer lending have become a popular alternative source for loan seekers. In particular, common characteristics among loan seekers in peer-to-peer lending are someone who otherwise do not qualify in the conventional methods requiring stringent qualifications. Servicing loans in this type of market means higher risk for customer to default. Lenders can benefit to lower the risk by loan defaults using **Crediteval** prediction algorithm. 
+```
+```
+___
+# Goals
+- Classify training data set accurately.
+- Predict the likely hood for loan applicants to default on their loan using trained algorithm.
+```
+```
+___
 # Usage
-
+Inputs to the algorithm showing below image.
+![image2](Resources/crediteval.png)
+```
+```
+___
+# Technology
+![image3](Resources/python-logo.png)
+![image4](Resources/numpy_logo.svg)
+![image5](Resources/pandas.svg)
+![image6](Resources/scikit-learn-logo-notext.png)
+```
+```
+___
+# Installation
+For dependencies intallation use Python's package manager for the requirements.txt file.
+- Type in the command line interface: **_pip install -r requirements.txt_**
+```
+```
 
 
 ### Image Attribution

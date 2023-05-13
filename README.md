@@ -1,9 +1,9 @@
 ![image1](Resources/27175447577_bcc121030c_c.jpg)
 ___
 # Crediteval
-**Crediteval** is a prediction algorithm to help manage risk in lending.
-```
-```
+**Crediteval** is a prediction algorithm to help manage risk in lending.\
+\
+\
 ___
 # Purpose
 In the recent years Peer-to-peer lending have become a popular alternative source for loan seekers. In particular, common characteristics among loan seekers in peer-to-peer lending are someone who otherwise do not qualify in the conventional methods requiring stringent qualifications. Servicing loans in this type of market means higher risk for customer to default. Lenders can benefit to lower the risk by loan defaults using **Crediteval** prediction algorithm. 
